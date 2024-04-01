@@ -1,0 +1,1 @@
+# Coloque nesta passta Planos,Orçamentos, Status do projeto e Controles administrativos do projeto
